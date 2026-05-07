@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovilesA</string>
+    <string name="txtView">Bienvenidos</string>
+    <string name="edText">nombre</string>
+    <string name="edText2">numero</string>
+    <string name="btnUpdate">Actualizar</string>
+</resources>
