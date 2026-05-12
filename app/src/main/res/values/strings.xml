@@ -4,4 +4,6 @@
     <string name="edText">nombre</string>
     <string name="edText2">numero</string>
     <string name="btnUpdate">Actualizar</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="profile_img_desc">Imagen de perfil</string>
 </resources>
